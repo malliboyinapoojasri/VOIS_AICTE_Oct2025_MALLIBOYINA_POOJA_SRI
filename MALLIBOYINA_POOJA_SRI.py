@@ -1,10 +1,3 @@
-# ==============================================================
-# AICTE - VOIS Internship Project
-# PROJECT TITLE: Airbnb Hotel Booking Analysis
-# STUDENT NAME: MALLIBOYINA POOJA SRI
-# SUBMISSION: OCTOBER 2025
-# ==============================================================
-
 # 1️⃣ Import Libraries
 import pandas as pd
 import numpy as np
